@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0198-house-robber](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0322-coin-change) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
