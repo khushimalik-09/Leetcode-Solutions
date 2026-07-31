@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0091-decode-ways) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
