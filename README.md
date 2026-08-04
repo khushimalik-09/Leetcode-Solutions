@@ -36,9 +36,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
