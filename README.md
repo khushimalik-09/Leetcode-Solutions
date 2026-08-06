@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0735-asteroid-collision](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,8 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0735-asteroid-collision](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
