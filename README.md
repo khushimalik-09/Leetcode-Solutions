@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0091-decode-ways) |
+| [0242-valid-anagram](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -68,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
