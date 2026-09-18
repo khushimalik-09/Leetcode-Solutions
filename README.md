@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0735-asteroid-collision](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/1934-confirmation-rate) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
