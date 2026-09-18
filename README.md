@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
