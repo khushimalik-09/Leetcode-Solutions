@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Database
 |  |
 | ------- |
