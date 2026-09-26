@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -63,6 +64,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -181,4 +183,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
