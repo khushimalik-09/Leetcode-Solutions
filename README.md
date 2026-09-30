@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -30,6 +31,7 @@
 | [0091-decode-ways](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -52,12 +54,14 @@
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -201,6 +205,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0139-word-break) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -209,4 +214,12 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
