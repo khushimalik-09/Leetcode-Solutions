@@ -14,6 +14,7 @@
 | [0139-word-break](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -63,6 +64,7 @@
 | [0001-two-sum](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Linked List
@@ -101,6 +103,7 @@
 | ------- |
 | [0015-3sum](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Tree
@@ -193,6 +196,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -222,4 +226,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0139-word-break) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
