@@ -57,6 +57,7 @@
 | [0091-decode-ways](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@
 | [0169-majority-element](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -230,8 +232,13 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/khushimalik-09/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
